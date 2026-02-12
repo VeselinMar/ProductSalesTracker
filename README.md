@@ -84,6 +84,6 @@ python sales_tracker.py
 
 ## Author
 
-**Veselin Marinov**
-Python Developer
-GitHub: https://github.com/VeselinMar
+**Veselin Marinov**  
+Python Developer  
+GitHub: https://github.com/VeselinMar 
